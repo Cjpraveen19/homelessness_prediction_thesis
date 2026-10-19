@@ -1,0 +1,7 @@
+Model,True High predicted High,True High predicted Low,True Low predicted High,True Low predicted Low
+Logistic Regression,56,5,1,62
+Decision Tree,57,4,2,61
+Random Forest,57,4,1,62
+SVM,57,4,1,62
+KNN,57,4,1,62
+XGBoost,58,3,2,61

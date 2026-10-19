@@ -1,0 +1,16 @@
+Feature,Importance
+num__lag_1,0.7374546
+cat__region_North-East,0.036415182
+num__adults_aged_18_24,0.033655602
+num__number_of_people_who_accessed_supported_temporary_accommodation,0.03361122
+cat__source_file_homelessness-report-december-2023.csv,0.02324646
+num__adults_aged_45_64,0.01818732
+num__lag_2,0.01366284
+num__female_adults,0.012761528
+num__adults_aged_65+,0.0126049025
+num__rolling_3_mean,0.0120786745
+num__number_of_people_who_accessed_private_emergency_accommodation,0.010226357
+num__adults_aged_25_44,0.009337605
+num__time_index,0.009286461
+num__total_adults,0.00826213
+num__number_of_dependants_in_families,0.007357074
